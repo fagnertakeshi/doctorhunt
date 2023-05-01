@@ -1,4 +1,4 @@
-#Sistema de Agendamento Médic
+#**Sistema de Agendamento Médico**
 
 Esse é um sistema de agendamento médico desenvolvido utilizando React para o frontend e Node.js para o backend.
 
